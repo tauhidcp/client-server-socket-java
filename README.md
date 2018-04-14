@@ -5,4 +5,4 @@ Implementation Client Server Database Application Using Socket Java
 
 - Insert, Update, Delete
 
-Turn Off Your Firewall in Windows
+Turn Off Your Firewall & Anti Virus 
